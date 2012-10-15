@@ -1,5 +1,5 @@
 : record rotation.rad   (start data recording of file rotation.rad)
-: azel 220 45     	(unstow and move to calibration position)
+: galactic 206 20    	(unstow and move to calibration position)
 : freq 1420.4 4			
 : noisecal
 : galactic 0 0	 	(measure at galactic lat long)
@@ -15,7 +15,7 @@
 : galactic 30
 :300
 
-: azel 220 45        (move to calibration position)
+: galactic 225 20       (move to calibration position)
 : noisecal
 
 : galactic 35 0
@@ -29,7 +29,7 @@
 : galactic 60 0
 :300
 
-: azel 220 45 
+: galactic 225 20
 : noisecal
 
 : galactic 65 0
