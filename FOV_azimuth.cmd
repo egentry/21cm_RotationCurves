@@ -1,4 +1,3 @@
-
 : record azimuth.rad
 : TEST
 : noisecal
